@@ -12,6 +12,8 @@ namespace Complex
 
             Console.WriteLine(c.Real);
             Console.WriteLine(c.Imaginary);
+
+            // TODO:01 Finish Lab2 Zadatak 3.)
         }
     }
 }
